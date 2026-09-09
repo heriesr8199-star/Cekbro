@@ -45,7 +45,7 @@ const quizData = [
     },
     {
         question:
-            "pribadi hanya pernah cedita sama teman dekat,.aku pernah di tolak berapa kali?",
+            "pribadi hanya pernah cerita sama teman dekat,.aku pernah di tolak berapa kali?",
         options: ["1", "2", "3", "4"],
         correct: 3
     },
